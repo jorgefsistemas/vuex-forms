@@ -15,7 +15,7 @@
     "build": "npm run bundle:lib && npm run bundle:web"
   },
   "dependencies": {
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "vuelidate": "^0.5.0"
   },
   "devDependencies": {
